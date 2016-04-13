@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./actapontificumr00hargoog_0010.png"; bbox 0 0 4090 6358; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 867 5520 1337 5749">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 867 5520 1337 5749">
+     <span class='ocr_line' id='line_1_1' title="bbox 970 5520 1227 5597; baseline -0.004 -19"><span class='ocrx_word' id='word_1_1' title='bbox 970 5520 1227 5597; x_wconf 74' lang='lat' dir='ltr'>Tfibingen,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 867 5619 1337 5671; baseline -0.004 -2"><span class='ocrx_word' id='word_1_2' title='bbox 867 5620 898 5670; x_wconf 88' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_3' title='bbox 917 5621 959 5670; x_wconf 89' lang='lat' dir='ltr'>Fr.</span> <span class='ocrx_word' id='word_1_4' title='bbox 978 5621 1111 5671; x_wconf 86' lang='lat' dir='ltr'>Fues&#39;sche</span> <span class='ocrx_word' id='word_1_5' title='bbox 1130 5619 1337 5669; x_wconf 85' lang='lat' dir='ltr'>Buchdruckerei</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 959 5699 1233 5749; baseline -0.011 -7"><span class='ocrx_word' id='word_1_6' title='bbox 959 5701 1025 5749; x_wconf 56' lang='grc' dir='ltr'>(ἕπει</span> <span class='ocrx_word' id='word_1_7' title='bbox 1035 5701 1055 5742; x_wconf 73' lang='grc' dir='ltr'>δι</span> <span class='ocrx_word' id='word_1_8' title='bbox 1064 5699 1233 5746; x_wconf 68' lang='lat' dir='ltr'>Kontenbndur).</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2050 6356">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2050 6356">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2050 6356; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2050 6356; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
